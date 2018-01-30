@@ -1,0 +1,23 @@
+{
+  "name": "infinite-scrolling-datepicker",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "sys.datepicker.js",
+  "scripts": {
+    "prettier": "prettier --write 'index.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joe-crick-blacklane/infinite-scrolling-datepicker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joe-crick-blacklane/infinite-scrolling-datepicker/issues"
+  },
+  "homepage": "https://github.com/joe-crick-blacklane/infinite-scrolling-datepicker#readme",
+  "devDependencies": {
+    "prettier": "^1.10.2"
+  }
+}
