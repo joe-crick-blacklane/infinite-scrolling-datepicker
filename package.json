@@ -2,7 +2,7 @@
   "name": "infinite-scrolling-datepicker",
   "version": "1.0.0",
   "description": "## Description",
-  "main": "sys.datepicker.js",
+  "main": "index.js",
   "scripts": {
     "prettier": "prettier --write 'index.js'"
   },
